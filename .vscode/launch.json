@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run Current File",
+        "runtimeExecutable": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "type": "chrome",
+        "request": "launch",
+        "file": "${file}",
+      }
+    ]
+  }
+  
